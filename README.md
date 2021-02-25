@@ -1,0 +1,2 @@
+# WebIt-WordPress
+WebIt - это тема для WordPress. В работе над сайтом я использовал следующие плагины: Advanced Custom Fields (создание груп полей), Contact Form 7 (создание форм), Cyr-To-Lat ( настройка постоянных ссылок ЧПУ), Smush ( опимизация и сжатие картинок), WP Super Cache (кэширования сайта), Yoast SEO ( установка настроек для SEO специалиста), ACF Content Analysis for Yoast SEO ( для удобной работы с плагином Yoast SEO ). Приятного просмотра!
